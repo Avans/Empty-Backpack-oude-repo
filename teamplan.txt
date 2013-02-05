@@ -10,4 +10,3 @@ AFSPRAKEN
 -Samenwerken met bestanden via Git. 
 -Voordat een opdracht wordt ingeleverd moet hij goedgekeurd worden door de groep.
 -Laagste acceptabele cijfer is een 8.
-test
