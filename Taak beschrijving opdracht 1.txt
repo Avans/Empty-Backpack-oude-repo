@@ -1,0 +1,13 @@
+Use cases:
+Spel spelen
+Adminstration
+
+Sean> Use cases 3 uur online
+Suus> Helpt beschrijvingen Sean
+Dennis + Wesley > Activity diagrams van de use cases
+Jelle + Robin > Activity Diagrammen (van de relevante process flows)
+Hugo > uiteindelijke document maken
+
+
+
+
