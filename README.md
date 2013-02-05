@@ -3,7 +3,8 @@ TEAMPLAN MIN03SOe 'EMPTY BACKPACK'
 FUNCTIES<br/>
 Voorzitter: Sean Samshuijzen<br/>
 Notulist: Dennis Dolman<br/>
-AFSPRAKEN<br/>
+AFSPRAKEN
+<br/>
 -Iedere dinsdag vergadering. Iedereen is fysiek aanwezig.<br/>
 -Iedereen is ingelezen in alle opdrachten, ook als je niet direct eraan meewerkt.<br/>
 -Samenwerken met bestanden via Git. <br/>
