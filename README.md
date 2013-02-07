@@ -18,3 +18,4 @@ Notulist: Dennis Dolman<br/>
 2. Database toevoegen als actor.<br/>
 3. Use Case Beschrijvingen opnieuw bekijken -> practischer opzetten!<br/>
 4. Activity diagrams bij alle UCBen.<br/>
+5. <strong>Voor morgen: 5 requirements bij Administratie, Competitie en Spelen</strong><br/> 
