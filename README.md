@@ -1,8 +1,9 @@
 <strong>TEAMPLAN MIN03SOe 'EMPTY BACKPACK'</strong>
 <br/><br/>
 <strong>FUNCTIES<br/></strong>
-Voorzitter: Sean Samshuijzen<br/>
-Notulist: Dennis Dolman<br/>
+Projectleider: Dennis Dolman<br/>
+Notulist: Robin Collard<br/>
+
 <br/>
 <strong>AFSPRAKEN</strong>
 <br/>
