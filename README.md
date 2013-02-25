@@ -12,9 +12,10 @@ Notulist: Dennis Dolman<br/>
 -Voordat een opdracht wordt ingeleverd moet t goedgekeurd zijn door de groep.<br/>
 -Laagste acceptabele cijfer is een 8.<br/>
 <br/>
-<strong>TO DO</strong>
+<strong>Planning meeting 26/02</strong>
 <br/>
-1. Jelle: competition UCBen<br/>
-2. Joost: admin panel UCBen<br/>
-3. Dennis: observer UCBen<br/>
-<strong>8-2 'S AVONDS AF!</strong>
+-Dennis Jarig:D</br>
+-Punten uit de review van MIN03SOd behandelen</br>
+-Taken verdelen voor opdracht 28/02</br>
+-Huidig proces behandelen</br>
+
