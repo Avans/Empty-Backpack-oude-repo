@@ -25,3 +25,9 @@ Notulist: Robin Collard<br/>
 <br/>
 -requirements doc: Sean+Hugo<br/>
 -Database structuur : Dennis + wesley<br/>
+
+<strong>Gegevens database:</strong>
+<br/> 
+Host: http://ssh.den-networks.com/phpmyadmin/<br/>
+Username: empty<br/>
+password: backpack<br/>
