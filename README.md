@@ -20,3 +20,8 @@ Notulist: Robin Collard<br/>
 -Taken verdelen voor opdracht 28/02<br/>
 -Huidig proces behandelen<br/>
 
+
+<strong>afspraken af 28/02</strong>
+<br/>
+-requirements doc: Sean+Hugo<br/>
+-Database structuur : Dennis + wesley<br/>
