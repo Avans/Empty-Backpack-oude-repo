@@ -15,16 +15,14 @@ Notulist: Robin Collard<br/>
 <br/>
 <strong>Planning meeting 26/02</strong>
 <br/>
--Dennis Jarig:D<br/>
--Punten uit de review van MIN03SOd behandelen<br/>
--Taken verdelen voor opdracht 28/02<br/>
+-Bespreken reactie van ger<br/>
+-database aanpassen<br/>
+-taken verdelen voor opdracht 5/5<br/>
 -Huidig proces behandelen<br/>
 
 
-<strong>afspraken af 28/02</strong>
+<strong>afspraken af 5/5</strong>
 <br/>
--requirements doc: Sean+Hugo<br/>
--Database structuur : Dennis + wesley<br/>
 
 <strong>Gegevens database:</strong>
 <br/> 
