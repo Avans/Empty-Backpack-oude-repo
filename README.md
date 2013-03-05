@@ -13,7 +13,7 @@ Notulist: Robin Collard<br/>
 -Voordat een opdracht wordt ingeleverd moet t goedgekeurd zijn door de groep.<br/>
 -Laagste acceptabele cijfer is een 8.<br/>
 <br/>
-<strong>Planning meeting 5/5</strong>
+<strong>Planning meeting 5/3</strong>
 <br/>
 -Bespreken reactie van ger<br/>
 -database aanpassen<br/>
@@ -21,7 +21,7 @@ Notulist: Robin Collard<br/>
 -Huidig proces behandelen<br/>
 
 
-<strong>afspraken af 5/5</strong>
+<strong>afspraken af 7/3</strong>
 <br/>
 
 <strong>Gegevens database:</strong>
