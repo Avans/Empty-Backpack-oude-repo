@@ -18,7 +18,7 @@ Notulist: Robin Collard<br/>
 -Bespreken reactie van ger<br/>
 -Aanpassingen maken<br/>
 -Stemming Presentatie NL<br/>
--Huidig proces behandelen<br/>
+-Barometer invullen<br/>
 
 
 <strong>afspraken af 7/3</strong>
