@@ -24,8 +24,13 @@ Notulist: Robin Collard<br/>
 <strong>afspraken af 14/3</strong>
 - Systeem test plan + Requirements Verbeterde versie<br/>
 - Presentatie plan vergaderen <br/>
+
 <strong>Gegevens database:</strong>
 <br/> 
 Host: http://ssh.den-networks.com/phpmyadmin/<br/>
 Username: empty<br/>
 password: backpack<br/>
+
+<strong> Afwezige data</strong>
+<br/>
+- Hugo : 18 April<br/>
