@@ -34,3 +34,4 @@ password: backpack<br/>
 <strong> Afwezige data</strong>
 <br/>
 - Hugo : 18 April<br/>
+- Wesley: week van 15 april <br/>
