@@ -21,9 +21,9 @@ Notulist: Robin Collard<br/>
 -Barometer invullen<br/>
 
 
-<strong>afspraken af 7/3</strong>
-<br/>
-
+<strong>afspraken af 14/3</strong>
+- Systeem test plan + Requirements Verbeterde versie<br/>
+- Presentatie plan vergaderen <br/>
 <strong>Gegevens database:</strong>
 <br/> 
 Host: http://ssh.den-networks.com/phpmyadmin/<br/>
