@@ -31,6 +31,11 @@ Host: http://ssh.den-networks.com/phpmyadmin/<br/>
 Username: empty<br/>
 password: backpack<br/>
 
+<strong>Email Leo:</strong>
+Email: Leo.vander.aalst@sogeti.nl </br>
+
+
+
 <strong> Afwezige data</strong>
 <br/>
 - Hugo : 18 April<br/>
